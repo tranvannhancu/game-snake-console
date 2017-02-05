@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1481796117 source:d:\hoc tap\src\code\gameconsole\snakegameconsole\new folder\test\main.cpp
+	<iostream>
+	"NewGraphics.h"
+	<ctime>
+
+1481601518 d:\hoc tap\src\code\gameconsole\snakegameconsole\new folder\test\dohoa2.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1481796517 d:\hoc tap\src\code\gameconsole\snakegameconsole\new folder\test\newgraphics.h
+	<windows.h>
+	<dos.h>
+	<iostream>
+	<stdio.h>
+
